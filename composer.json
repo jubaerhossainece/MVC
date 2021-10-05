@@ -1,0 +1,15 @@
+{
+    "name": "nothing/mvc",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "jubaerhossainece",
+            "email": "jubaerkuet@gmail.com"
+        }
+    ],
+    "require": {}
+}
