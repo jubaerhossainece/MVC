@@ -9,9 +9,7 @@
 		return 'hello man';
 	});
 
-	$app->router->get('/contact', function(){
-		return 'contact page';
-	});
+	$app->router->get('/contact', 'contact');
 
 	$app->run();
 
