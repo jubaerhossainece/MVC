@@ -1,8 +1,9 @@
 {
-    "name": "nothing/mvc",
+    "name": "jubaer/mvc",
+    "description": "mvc form jubaer",
     "autoload": {
         "psr-4": {
-            "app\\": "./"
+            "App\\": "app/"
         }
     },
     "authors": [
